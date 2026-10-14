@@ -1,1 +1,5 @@
-# cs101-version-control-839
+# My CS Profile
+
+## About ME
+- Name: Teerapong Janbang
+- Major: Computer Science
